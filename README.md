@@ -1,4 +1,3 @@
-# project_05
 # Public Opinion Poll Smart Contract
 
 ## Vision
